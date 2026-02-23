@@ -1,4 +1,4 @@
-"""LLM Router — Candidate implements this file.
+"""LLM Router
 
 Your task: Build a unified router that forwards chat requests to
 OpenAI, Anthropic, or NovaAI and returns a consistent response format.
