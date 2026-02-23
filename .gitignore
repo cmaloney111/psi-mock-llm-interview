@@ -1,0 +1,15 @@
+# Answer key — do not commit
+src/router_fixed.py
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Test / runtime
+.pytest_cache/
